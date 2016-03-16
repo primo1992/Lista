@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string-array name="Lista">
+        <item>Pantalla</item>
+        <item>Cpu</item>
+        <item>Teclado</item>
+        <item>Mouse</item>
+        <item>Parlantes</item>
+    </string-array>
+
+</resources>
